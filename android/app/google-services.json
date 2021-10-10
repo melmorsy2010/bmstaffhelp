@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711979095745",
+    "project_id": "bmstaff-e8d3a",
+    "storage_bucket": "bmstaff-e8d3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711979095745:android:3366d6ff9514c4d823e640",
+        "android_client_info": {
+          "package_name": "com.boss.bmstaffhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711979095745-5a8752ltmg7btem8cl2fj9n1bs73pm71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHlR2Iip0QNpDinzrdP2_d02fieYpAcl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711979095745-5a8752ltmg7btem8cl2fj9n1bs73pm71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
